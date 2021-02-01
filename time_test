@@ -1,0 +1,4 @@
+classic edge2shoes MSE - 30 epochs - 8800 sec
+classic edge2shoes BCE - 30 epochs - 8800 sec
+own JOJO MSE - 80 epochs - 11800 sec
+own JOJO BCE - 80 epochs - 15800 sec
